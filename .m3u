@@ -80,6 +80,9 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/254278
 http://190.61.102.67:31589/play/a018/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",TNT 2
+https://live.telelatinohd.com:8080/MTc5LjYuMTA5LjE0MQ==/41_.m3u8?token=-SsLa7gAzDVTxtLDPlsaJg&expires=1664747131
+
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",TNTSERIES
 http://190.61.102.67:31589/play/a00m/index.m3u8
 
@@ -449,11 +452,11 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/254302
 https://onedrive.live.com/download.aspx?cid=CE04B9016CA29A42&resid=CE04B9016CA29A42!125&authkey=ABVa_LQGRRgl8Yc
 
 
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""PELICULAS"",El cazador y la reina de hielo
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""PELICULAS"",El cazador y la reina de hielo (2016/AVENTURA)
 https://onedrive.live.com/download?cid=A4A1F0763FCC8C65&resid=A4A1F0763FCC8C65%21117&authkey=AOHQ65nCGoFIA3M
 
 
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""PELICULAS"",PIXEL
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""NETFLIX"",PIXELES (2015/COMEDIA)
 https://onedrive.live.com/download?cid=A4A1F0763FCC8C65&resid=A4A1F0763FCC8C65%21117&authkey=AOHQ65nCGoFIA3M
 
 
@@ -485,16 +488,57 @@ https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!854&authkey=!AMqj
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""PELICULAS"",LA NOVIA DE CHUCKY
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSBrXTX9RUVsnU&ithint=video%2cmp4
 
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""PELICULAS"", EL MAL ADENTRO(2017) SUB
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""PELICULAS"", EL MAL ADENTRO(2017) SUB (terror)
 http://bit.ly/EVILWITHIN_MOVIE
 
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""PELICULAS"", PET:MASCOTA HUMANA (2016)
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""PELICULAS"", PET:MASCOTA HUMANA (2016/Terror)
 http://bit.ly/MASCOTAHUMANA
 
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""PELICULAS"",El bebé de Bridget Jones (2016/Comedia)
+https://onedrive.live.com/download?cid=9879d453fb55bed4&resid=9879D453FB55BED4%21108&authkey=!AA5xl6XOeiMGoJU
 
-
-#EXTINF:-1 tvg-logo="https://www.ennetflix.com.ar/media/8/tormenta-de-arena_80098810.jpg"  group-title=""NETFLIX"",TORMENTA DE ARENA
+#EXTINF:-1 tvg-logo="https://www.ennetflix.com.ar/media/8/tormenta-de-arena_80098810.jpg"  group-title=""NETFLIX"",TORMENTA DE ARENA (2016/Drama)
 http://bit.ly/MRAQCASTI
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""NETFLIX"",EN EL CORAZON DEL MAR (2015/Aventura)
+https://goo.gl/4BqODN
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""PELICULAS""LA CHICA DAnesa (2015/Drama)
+https://goo.gl/nQXbQ5
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""PELICULAS""Hannibal, el origen del mal (2007/Terror)
+https://goo.gl/gWJEZq
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""PELICULAS""Mi abuelo es un peligro (2016/Comedia)
+https://goo.gl/KYCQoX
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""PELICULAS""Siniestro (2012/Terror)
+https://goo.gl/F5NCPj	
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""PELICULAS""
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""PELICULAS""
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""PELICULAS""
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""PELICULAS""
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""PELICULAS""
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""PELICULAS""
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""PELICULAS""
+
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""NETFLIX"",SANDY WEXLER (ADAM SANDLER)
+http://bit.ly/MRAQCSAND
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""PELICULAS"",
+
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/17/05/31/12/51/150091.png/"  group-title=""PELICULAS"",COLOSSAL
 http://bit.ly/2w5zZIw
@@ -585,10 +629,11 @@ http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""MUSICA"",
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""MUSICA"",A2i MUSIC
+https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""MUSICA"",
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""MUSICA"",88 STEREO
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""ANIME",Death Note
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus 
