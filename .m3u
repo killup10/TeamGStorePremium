@@ -32,7 +32,6 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/21122
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""CANALES LOCALES"",EXITOSA TV
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69153
 
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""CANALES LOCALES"",PERU MAGICO 
 
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""CANALES LOCALES"",NEX TV HD
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/35475
@@ -40,14 +39,23 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/35475
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/3617319629/1ed867ab5e0cd767be32666dc8bf8d64.jpeg" group-title="DEPORTES",GOL peru
 https://2200.janjua.pw:8088/adfree/gopru1/playlist.m3u8?vidictid=192654308487&id=108019&pk=eb97ebd50bd6a8815183b06b15ace039cd964a22d0e9822a7eaaa277e675fb31
 
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/3617319629/1ed867ab5e0cd767be32666dc8bf8d64.jpeg" group-title="DEPORTES",GOL peru OPCION 2
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69149
+
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/3617319629/1ed867ab5e0cd767be32666dc8bf8d64.jpeg" group-title="DEPORTES",GOL peru OPCION 3
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69147
+
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/3617319629/1ed867ab5e0cd767be32666dc8bf8d64.jpeg" group-title="DEPORTES",GOL peru OPCION 4
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69146
+
+
+
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""DEPORTES"",GOL TV HD 
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/21135
 
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""CANALES LOCALES"",NEX TV HD
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/35475
 
-
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""CANALES LOCALES"",BETHEL PLUS 
 
 
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="NOVELAS",CANAL DE ESTRELLAS
@@ -130,13 +138,12 @@ http://190.61.102.67:31589/play/a03k/index.m3u8
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="KIDS",Discovery kids
 http://190.61.102.67:31589/play/a015/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="KIDS",Discovery Kids HD
 
 
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="KIDS",NICKELODEON
 http://190.61.102.67:31589/play/a014/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""KIDS"",Baby FIRST HD
+
 
 
 
@@ -146,7 +153,6 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/99092
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""KIDS"",NICKELODEON FULL HD 
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/37545
 
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""KIDS"",Baby TV
 
 
 
@@ -154,16 +160,16 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/37545
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/99592
 
 
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""KIDS"",CARTOONCITO
 
 
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""KIDS"",NICK JR
+
+
 
 
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""KIDS"",DISNEY JR
 http://190.61.102.67:31589/play/a03j/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""KIDS"",CHIQUILINES
+
 
 
 
@@ -184,53 +190,39 @@ https://2200.janjua.pw:8088/adfree/directvhd/playlist.m3u8?vidictid=192658076839
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="DEPORTES",DIRECTV SPORTS HD
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45707
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="DEPORTES",CLARO SPORTS HD
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="DEPORTES",ESPN
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45740
 
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="DEPORTES", ESP 2
  
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="DEPORTES",ESPN 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="DEPORTES",ESPN DEPORTES 
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45744
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="DEPORTES",ESPN 3
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45743
 
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="DEPORTES",ESPN3 HD
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="DEPORTES",
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="DEPORTES",
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="DEPORTES",
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="DEPORTES",
                                                                                                           
-                                                                                                                                    
-                                                                                                    
-
+                                                                                                                                                             
                                                                                                           
 
 
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",H&H DISCOVERY
 http://190.61.102.67:31589/play/a03g/index.m3u8                                                                                                     
 
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",ANIMAL PLANET     
+
                                                                                                                                 
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",UNICANAL
 http://45.55.127.106/live/unicanal_mid.m3u8
                                                                                                           
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",TOP CINE  
-                                                                                                          
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",JUNTOS
+
 
                                                                                                           
                                                                                                                                  
@@ -252,19 +244,9 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",AMC HD
-
-
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",Film & Art HD
-
-
-
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="VARIADO",MTV HD
-
-
                                                                                                           
-                                                                                                                                 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/14/02/13/11/53/498986.jpg/"  group-title=""NETFLIX KIDS"",TINKERBELL
+http://live.reystream.us:8080/movie/mio1977/GugiQiLYNT/29639.mkv                                                                                                                              
 
                                                                                                                                  
 
@@ -275,27 +257,14 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/99054
                                                                                                                                  
 
                                                                                                                                  
-                                                                                                                        
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",UNIVERSAL CRIME
+                                                                                                                      
 
                                                                                                           
                                                                                                                                  
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",UNIVERSAL PREMIERE
 
 
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/37533
-                                                                                                                                 
 
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DEPORTES",FOX SPORTS MX
-
-
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/37538
                                                                                                           
-                                                                                                                                 
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DEPORTES",FOX SPORTS 2 CHILE
-
-
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/37538
                                                                                                           
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DEPORTES",FOX SPORTS CHILE HD
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/37532
@@ -314,7 +283,6 @@ http://190.61.102.67:31589/play/a04x/index.m3u8
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",A&E
 http://190.61.102.67:31589/play/a03f/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",A&E HD
 
 
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="DOCUMENTALES",Investigation Discovery
@@ -349,10 +317,7 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/47865
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/260085
 
 
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",HBO FULL HD
 
-
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/37526 
                                                                                                                                  
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""PELIS Y SERIES"",HBO POP
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/260087
@@ -362,10 +327,9 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/260087
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/117874
 
 
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""PELIS Y SERIES"",HBO SIGNATURE 2
 
 
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/37522
+
 
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""DOCUMENTALES"",HGTV HD 
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/99076
@@ -379,11 +343,8 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/99076
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""PELIS Y SERIES"",HBO MUNDI HD
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/47868
 
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""PELIS Y SERIES"",MEGA HD
 
 
-
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/47848
 
 
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""PELIS Y SERIES"",MEGA CHL
@@ -391,10 +352,6 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/72202
 
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""MUSICA "",MTV HITS 
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/254281
-
-
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""DOCUMENTALES"",NATIONAL GEOGRAPHIC HD
-
 
 
 
@@ -407,7 +364,7 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/99571
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""DOCUMENTALES"",TELEMAX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?NACIONALES.m3u8
 
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""DOCUMENTALES"",DISCOVERY ID
+
 
 
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""PELIS Y SERIES"",PARAMOUNT NETWORK 
@@ -417,13 +374,11 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/47870
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/99095
 
 
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""NOVELAS"",PASIONES
 
 
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""DEPORTES"",Portal FoxMix CHL
 
 
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/106745
+
 
 
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title=""PELIS Y SERIES"",SONY FULLHD 
